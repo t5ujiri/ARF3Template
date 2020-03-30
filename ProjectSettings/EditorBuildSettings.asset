@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/ARF3Sample.unity
+    guid: c5eaf83e688d2264fa3beb976d8252d1
+  - enabled: 1
     path: Assets/Scenes/System.unity
     guid: 2305c5c4f16ce68469e63b93062b110f
   m_configObjects:

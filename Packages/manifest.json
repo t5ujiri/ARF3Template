@@ -1,9 +1,11 @@
 {
   "dependencies": {
+    "com.cysharp.unitask": "1.2.0",
+    "com.neuecc.unirx": "7.1.0",
+    "com.svermeulen.extenject": "9.1.0",
     "com.unity.ide.rider": "1.1.4",
     "com.unity.ide.vscode": "1.1.4",
     "com.unity.postprocessing": "2.3.0",
-    "com.unity.render-pipelines.lightweight": "7.2.1",
     "com.unity.render-pipelines.universal": "7.1.8",
     "com.unity.subsystemregistration": "1.0.6",
     "com.unity.test-framework": "1.1.13",
@@ -44,9 +46,7 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0",
-    "com.neuecc.unirx": "7.1.0",
-    "com.cysharp.unitask": "1.2.0",
-    "com.svermeulen.extenject": "9.1.0"
+    "com.demigiant.dotween": "1.2.32"
   },
   "scopedRegistries": [
     {
@@ -54,6 +54,7 @@
       "url": "https://package.openupm.com",
       "scopes": [
         "com.cysharp.unitask",
+        "com.demigiant.dotween",
         "com.neuecc.unirx",
         "com.openupm",
         "com.svermeulen.extenject"
